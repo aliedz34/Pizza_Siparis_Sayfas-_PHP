@@ -1,0 +1,11 @@
+#loginDiv{
+	float:left;
+	background:#ff0000;
+	width:200px;
+	height:240px;
+	margin-left:30%;
+	margin-top:10%;
+}
+body{
+	color:white;
+}

@@ -1,0 +1,33 @@
+#genelDiv{
+	width:1900px;
+	height:900px;
+	float:left;
+}
+
+#siparisDiv{
+	width:500px;
+	height:500px;
+	float:left;
+	margin-left:28%;
+	margin-top:3%;
+	background:#ffff66;
+	border-style:solid;
+    border-color:#000000;
+    border-radius: 15px;
+    border-width: 6px;
+}
+
+h1{
+	float:left;
+	margin-left:170px;
+}
+#phpDiv{
+	float:left;
+	width:400px;
+	height:600px;
+	margin-left:30px;
+}
+
+
+
+    
